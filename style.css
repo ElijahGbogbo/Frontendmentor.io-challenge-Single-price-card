@@ -114,6 +114,12 @@ html {
 
 
 @media (min-width: 576px) {
+   body {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+   }
+  
   .main-cont {
     width: 550px;
     height: 450px;
